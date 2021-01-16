@@ -28,7 +28,7 @@ from bot.modules.connection import connect_button
 
 PM_START_TEXT = """
 *Hello* *{}*
-*My name is* *{}*\n\n`You Can Add any kind of Filters to This Bot!`
+*My name is* *{}*\n\nYou Can Add any kind of Filters to This Bot!`
 
 _Click Help button for more details_
 """
